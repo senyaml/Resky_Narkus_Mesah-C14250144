@@ -1,0 +1,19 @@
+Rangkuman Pertemuan Pertama: Pengenalan Data dan Analisis Data
+Pertemuan perdana memberikan fondasi penting dalam memahami konsep data dan analisis data.
+Definisi Data
+Data adalah informasi atau hasil pengamatan yang memiliki nilai guna untuk kepentingan tertentu. Pada dasarnya, data merupakan bahan mentah yang dapat diolah menjadi insight berharga.
+Analisis Data
+Analisis data adalah proses sistematis yang meliputi pengumpulan, pembersihan, dan transformasi data untuk menghasilkan informasi yang mendukung pengambilan keputusan. Tahap pembersihan data seringkali menjadi yang paling menantang karena data di dunia nyata cenderung tidak terstruktur dengan baik.
+Empat Jenis Utama Analisis Data
+
+Analisis Deskriptif - Menjawab pertanyaan "apa yang terjadi"
+Fokus pada pembuatan ringkasan dan visualisasi data historis
+Analisis Diagnostik - Menjawab pertanyaan "mengapa hal itu terjadi"
+Menggali lebih dalam untuk memahami akar penyebab suatu fenomena
+Analisis Prediktif - Menjawab pertanyaan "apa yang akan terjadi"
+Menggunakan model statistik dan machine learning untuk peramalan
+Analisis Preskriptif - Menjawab pertanyaan "apa yang sebaiknya dilakukan"
+Memberikan rekomendasi tindakan berdasarkan hasil analisis sebelumnya
+
+Kesimpulan
+Setiap jenis analisis memiliki karakteristik, kelebihan, dan keterbatasan masing-masing. Penggunaan yang tepat dan terintegrasi dari keempat pendekatan ini dapat memberikan pemahaman komprehensif tentang kebutuhan dan peluang bisnis.
