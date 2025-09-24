@@ -1,4 +1,5 @@
 DIKW Pyramid: Makanan Manis dan Pahit
+
 🏔️ WISDOM (Kebijaksanaan)
 Kemampuan membuat keputusan bijak tentang konsumsi makanan
 
